@@ -8,7 +8,7 @@ function Progress() {
             </main>
 
             <section className="Progress-Content">
-                <p>기기가 입수하기 괜찮은지 판단하고 있습니다.<br></br>잠시만 기다려주세요.</p>
+                <p>입수 가능 여부를 확인하고 있습니다.<br></br>잠시만 기다려주세요. 기기를 건드리지 마세요.</p>
             </section>
 
             <div>

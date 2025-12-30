@@ -40,7 +40,6 @@ function Start() {
             </div>
 
             {isLoading && <Loading message="기기 준비 중..." />}
-            {isLoading && <Loading />}
             
         </>
     )

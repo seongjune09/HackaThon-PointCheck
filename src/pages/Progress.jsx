@@ -39,7 +39,6 @@ function Progress() {
             </div>
 
             {isLoading && <Loading message="기기 구동중.." />}
-            {isLoading && <Loading />}
             
         </>
     )

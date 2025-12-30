@@ -1,12 +1,22 @@
-import { Routes, Route } from 'react-router-dom'
+import { Routes, Route, useNavigate, useLocation } from 'react-router-dom'
+import { useEffect } from 'react'
+
 import Home from './pages/Home.jsx'
 import Start from './pages/Start.jsx'
 import Progress from './pages/Progress.jsx'
 import Progress1 from './pages/Progress1.jsx'
 import End from './pages/End.jsx'
 
-
 function App() {
+  const navigate = useNavigate()
+  const location = useLocation()
+
+  useEffect(() => {
+    if (location.pathname !== '/') {
+      navigate('/', { replace: true })
+    }
+  }, [])
+
   return (
     <Routes>
       <Route path="/" element={<Home />} />
