@@ -1,14 +1,14 @@
 import '../styles/Loading.css'
 
-function Loading() {
+function Loading({ message = '로딩 중...' }) {
     return (
         <div className="Loading-Overlay">
-            <img
-                src="loading-square.png"
-                alt="loading"
-                className="loading-image"
-            />
-            <p>기기 상태 확인 중...</p>
+            <div className="square-loader">
+                <img src="square-green.png" className="sq sq1" />
+                <img src="square-yellow.png" className="sq sq2" />
+                <img src="square-red.png" className="sq sq3" />
+            </div>
+            <p>{message}</p>
         </div>
     )
 }

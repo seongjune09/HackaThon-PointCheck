@@ -24,8 +24,8 @@ function Start() {
 
             <section className={`Start-Content ${isLoading ? 'blur' : ''}`}>
                 <p>
-                    시작버튼을 누른 후 <br />
-                    지시에 따라 기기를 던져주세요!
+                    측정하고 싶은 장소를 정하고<br />
+                    기기를 던져주세요!
                 </p>
             </section>
 
@@ -35,12 +35,13 @@ function Start() {
                     onClick={handleStart}
                     disabled={isLoading}
                 >
-                    시작하기
+                    다음
                 </button>
             </div>
 
-            {/* 🔄 로딩 오버레이 */}
+            {isLoading && <Loading message="기기 준비 중..." />}
             {isLoading && <Loading />}
+            
         </>
     )
 }
