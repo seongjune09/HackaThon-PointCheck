@@ -100,7 +100,7 @@
 ## 팀원 소개
 
 |김현호|김민서|문준혁|박성준
-|:---:|:---:|:---:|:---:
+|:---:|:---:|:---:|:---:|
 |AI|하드웨어|하드웨어|프론트엔드|
 <img width="130" src="https://github.com/user-attachments/assets/1b72cd40-c446-4f9e-a96c-da41bef08064" />|<img width="130" src="https://github.com/user-attachments/assets/1b72cd40-c446-4f9e-a96c-da41bef08064" />|<img width="130" src="https://github.com/user-attachments/assets/1b72cd40-c446-4f9e-a96c-da41bef08064" />| <img width="130" src="https://github.com/user-attachments/assets/ace95578-2f8a-4e95-8755-d812a255278b">|
 
@@ -109,14 +109,14 @@
 
 ## 🛠 기술 스택
 
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" /> <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" />
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" />   <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" />
 
 ---
 
 ## 🔗 배포 링크
 [🌐 포인트 체크  바로가기](https://hackathon-pointcheck.vercel.app)  *(아이폰 16 반응형 뷰 기준 [399 x 712])*
 
-(!) 현재 기기가 구동 중이지 않아 자세한 시연은 영상을 통해 확인해주세요.
+⚠️  현재 기기가 구동 중이지 않아 자세한 시연은 영상을 통해 확인해주세요.
 
 ---
 
