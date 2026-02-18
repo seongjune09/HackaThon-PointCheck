@@ -127,4 +127,4 @@
 
 ---
 
-# [▶ 시연영상 확인하기](https://youtu.be/7ze6g8a8b1s)
+# [▶ 시연 영상 확인하기](https://youtu.be/7ze6g8a8b1s)
