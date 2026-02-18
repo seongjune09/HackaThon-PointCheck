@@ -44,18 +44,18 @@
 
 
 
-### 1. 
+## 1. 
 - 시작 버튼을 누르면 현재 위치와 상세 주소를 입력하게 됩니다. 
   입력된 위치 정보는 측정 기록과 함께 저장되어 추후 데이터 분석에 활용됩니다.
 
 ---
 
-### 2. 
+## 2. 
 - 파도의 세기를 측정하고 싶은 장소에 기기를 띄우거나 던집니다.
 
 ---
 
-### 3. 
+## 3. 
 - 위치가 정확하다면 시작 버튼을 눌러 측정을 시작합니다. 시작 버튼을 누르면 기기가 구동하기 시작합니다.
 
 ---
@@ -63,12 +63,12 @@
 <img width="1063" height="685" alt="image" src="https://github.com/user-attachments/assets/354398ff-6de1-4d4d-be15-eb963a9eddcf" />
 
 
-### 4.
+## 4.
 - 측정을 종료하면 센서 데이터가 AI로 전송되어 실시간 분석됩니다. AI는 현재 파도 상태의 안전도를 판단하고, 사용자의 연령대에 맞는 맞춤형 피드백을 제공합니다.
 
 ---
 
-### 5.
+## 5.
 - 기록 페이지에서 이전에 측정한 모든 기록을 확인할 수 있습니다. 각 기록을 클릭하면 당시 받았던 AI 피드백을 다시 확인할 수 있습니다.
 
 
@@ -77,18 +77,18 @@
 # ⚙️하드웨어 구성
 <img width="1277" height="701" alt="Image" src="https://github.com/user-attachments/assets/68bd3492-2931-4aef-b9a7-0b8c1874e204" />
 
-### 자이로 센서
+## 자이로 센서
 - 파도의 높이는 기상 예보로 확인할 수 있지만, 연안 지형에 따른 **불규칙한 회전**과 **체감 진동**은 실측이 필요합니다. <br>
   회전 정도를 정확히 분석하기 위해 자이로 센서를 사용했습니다.
 
 ---
 
-### 온도 센서
+## 온도 센서
 - 수온 데이터를 실시간으로 측정하여 해양 환경 분석에 활용했습니다.
 
 ---
 
-### ESP32 (BLE 통신)
+## ESP32 (BLE 통신)
 - 해수면 위에서는 전파 감쇄가 심해 **BLE 통신**을 통해 스마트폰과 안정적으로 연동하면서도 배터리 소모를 최소화했습니다. <br>
   또한 ESP32는 센서 데이터를 실시간 필터링하고 처리할 수 있어 본 프로젝트의 핵심 부품으로 사용되었습니다.
 
@@ -114,13 +114,13 @@
 
 ---
 
-## 🛠 기술 스택
+# 🛠 기술 스택
 
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" />   <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" />
 
 ---
 
-## 🔗 배포 링크
+# 🔗 배포 링크
 [🌐 포인트 체크  바로가기](https://hackathon-pointcheck.vercel.app)  *(아이폰 16 반응형 뷰 기준 [399 x 712])*
 
 ⚠️  현재 기기가 구동 중이지 않아 자세한 시연은 영상을 통해 확인해주세요.
