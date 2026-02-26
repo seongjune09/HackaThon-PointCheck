@@ -26,7 +26,7 @@
 
 ---
 
-# ‼️ 기존 해양 부이와의 차이점
+# 기존 해양 부이와의 차이점
 <img width="1112" height="645" alt="image" src="https://github.com/user-attachments/assets/6fa0d33d-360e-4f0e-b659-3f83b03fee80" />
 
 
@@ -74,7 +74,7 @@
 
 ---
 
-# ⚙️하드웨어 구성
+# 하드웨어 구성
 <img width="1277" height="701" alt="Image" src="https://github.com/user-attachments/assets/68bd3492-2931-4aef-b9a7-0b8c1874e204" />
 
 ## 자이로 센서
@@ -97,7 +97,7 @@
 
 ---
 
-# 👍🏻 배운 점 및 느낀 점
+# 배운 점 및 느낀 점
 - 이번 프로젝트는 학교에서 선배님과 진행한 첫 프로젝트인 만큼 정말 기대감이 높았고, 좋은 결과물을 내고 싶은 마음이 컸습니다.
   특히 문제 정의부터 기획까지 함께 고민하는 과정이 가장 기억에 남습니다. 단순히 기술을 구현하는 것을 넘어, "왜 이 서비스가 필요한가?"부터 시작해 실제 사용자 관점에서 문제를 바라보는 시각을 배울 수 있었습니다.
   임베디드와 웹을 연동하는 프로젝트였던 만큼 예상치 못한 변수가 정말 많았습니다. 센서 데이터 통신 오류, 납땜 실수, 어떻게 기기를 띄울 것인가 등 수많은 시행착오가 있었지만, 팀원들과 함께 하나씩 해결해 나가며 문제 해결 능력과 협업의 중요성을 체감할 수 있었습니다.
@@ -114,13 +114,13 @@
 
 ---
 
-# 🛠 기술 스택
+# 기술 스택
 
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" />   <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" />
 
 ---
 
-# 🔗 배포 링크
+# 배포 링크
 [🌐 포인트 체크  바로가기](https://hackathon-pointcheck.vercel.app)  *(아이폰 16 반응형 뷰 기준 [399 x 712])*
 
 ⚠️  현재 기기가 구동 중이지 않아 자세한 시연은 영상을 통해 확인해주세요.
